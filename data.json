@@ -1,0 +1,74 @@
+[
+    {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "platform": ["Nintendo Switch"],
+        "genre": ["Action-adventure"],
+        "release_year": 2017,
+        "description": "An open-world action-adventure game where players control Link, who awakens from a long slumber to defeat Calamity Ganon and save the kingdom of Hyrule.",
+        "image": "images/zelda.jpg"
+    },
+    {
+        "title": "God of War",
+        "platform": ["PlayStation 4"],
+        "genre": ["Action-adventure"],
+        "release_year": 2018,
+        "description": "A third-person action-adventure game following Kratos and his son Atreus on a journey through the Norse realms.",
+        "image": "images/gow.avif"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "platform": ["PlayStation 4", "Xbox One", "PC"],
+        "genre": ["Action-adventure"],
+        "release_year": 2018,
+        "description": "An open-world western action-adventure game set in 1899, following Arthur Morgan, an outlaw and member of the Van der Linde gang.",
+        "image": "images/rdr2.avif"
+    },
+    {
+        "title": "Minecraft",
+        "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+        "genre": ["Sandbox", "Survival"],
+        "release_year": 2011,
+        "description": "A sandbox game where players can build and explore their own worlds, gather resources, and survive against various threats.",
+        "image": "images/minecraft.jpg"
+    },
+    {
+        "title": "Among Us",
+        "platform": ["PC", "Mobile", "Nintendo Switch"],
+        "genre": ["Party", "Social Deduction"],
+        "release_year": 2018,
+        "description": "A multiplayer party game where players work together to complete tasks on a spaceship while trying to identify and eliminate the impostors.",
+        "image": "images/among_us.jpg"
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "platform": ["PC", "PlayStation 4", "Xbox One"],
+        "genre": ["Action RPG"],
+        "release_year": 2020,
+        "description": "An open-world action RPG set in the dystopian Night City, where players control V, a mercenary with cybernetic enhancements.",
+        "image": "images/cyberpunk_2077.jpg"
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+        "genre": ["Action RPG"],
+        "release_year": 2015,
+        "description": "An open-world action RPG where players control Geralt of Rivia, a monster hunter searching for his adopted daughter.",
+        "image": "images/witcher3.jpg"
+    },
+    {
+        "title": "Super Mario Odyssey",
+        "platform": ["Nintendo Switch"],
+        "genre": ["Platform"],
+        "release_year": 2017,
+        "description": "A 3D platformer where Mario travels across various kingdoms to rescue Princess Peach from Bowser, using his new companion Cappy.",
+        "image": "images/super_mario_odyssey.jpg"
+    },
+    {
+        "title": "Hades",
+        "platform": ["PC", "Nintendo Switch"],
+        "genre": ["Roguelike", "Action RPG"],
+        "release_year": 2020,
+        "description": "A roguelike dungeon crawler where players control Zagreus, the son of Hades, as he attempts to escape the Underworld.",
+        "image": "images/hades.avif"
+    }
+]
